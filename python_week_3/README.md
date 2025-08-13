@@ -29,4 +29,4 @@ This Python program calculates the final price of an item after applying a disco
 
 6. If no, it keeps the original price.
 
--- The final price is displayed with a clear message.
+---  The final price is displayed with a clear message.
